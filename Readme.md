@@ -1,4 +1,4 @@
-﻿# How to create SAML Aware .NET Apps
+# How to create SAML Aware .NET Apps
 
 
 1. Creare a new ASP.NET MVC app with *Individual Account* as Authentication, this wil use `Microsoft.Aspnet.Identity` package.
